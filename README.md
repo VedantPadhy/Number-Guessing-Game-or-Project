@@ -59,7 +59,3 @@ Navigate to the directory where the Python file is saved.
 Run the Python file using the command: python number_guessing_game.py
 
 Enjoy the game and happy guessing!
-
-
-Feel free to customize this README file further as per your needs. If you need any additional information or modifications, just let me know!
-
